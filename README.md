@@ -9,13 +9,11 @@
 
 *sample commands:*
 
-1 55
-
-2 25
-
-W 4
-
-4 10.25
+* 1 55
+* 2 25
+* W 4
+* 4 10.25
+* 4 12
 
 after each command result is displayed and waits for next user command.
 
