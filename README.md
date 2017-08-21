@@ -15,7 +15,7 @@
 * 4 10.25
 * 4 12
 
-after each command result is displayed and waits for next user command.
+after each command by the user, result is displayed and waits for next command.
 
 future note:
 * can enable frameworks viz. springboot and run on tomcat server.
