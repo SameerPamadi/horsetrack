@@ -1,15 +1,20 @@
 # HorseTrack
 
 * requirments to run application
-JRE/JDK 1.8.*
+ 
+  JRE/JDK 1.8.*
 
-* download horsetrack.jar and run below command from that directory/folder.
-*java -cp horsetrack.jar com.racing.HorseTrack*
+* download [horsetrack.jar](https://github.com/SameerPamadi/horsetrack/blob/master/horsetrack.jar?raw=true) and run below command from that directory/folder.
+* java -cp horsetrack.jar com.racing.HorseTrack
 
-sample commands:
+*sample commands:*
+
 1 55
+
 2 25
+
 W 4
+
 4 10.25
 
 after each command result is displayed and waits for next user command.
